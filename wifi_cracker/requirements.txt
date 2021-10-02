@@ -1,0 +1,7 @@
+smtplib
+os
+glob
+tempfile
+subprocess
+requests
+shutil
