@@ -27,7 +27,7 @@ def run():
 
 	print("""
 		crakeador de contraseñas de wifi para windows
-							by:METACER""")
+							by:lexter321""")
 	try:
 		os.mkdir('./NETPORT')
 	except:
